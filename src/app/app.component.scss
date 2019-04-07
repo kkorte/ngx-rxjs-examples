@@ -1,0 +1,12 @@
+:host {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.sidebar {
+    
+}
+
+.main {
+    grid-column: 2 / 7;
+}
